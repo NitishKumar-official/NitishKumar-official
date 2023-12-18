@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Nitish Kumar
+# Hi there!  I'm Nitish Kumar
 
 I'm a passionate Frontend Developer currently pursuing B.Tech from Government Engineering College Munger.
 <p align="center">
   <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Hello, I'm Nitish Kumar!" width="100%">
 </p>
 
-## 🚀 Skills and Technologies
+## Skills and Technologies
 
 - HTML, CSS, JavaScript
 - React.js
@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer currently pursuing B.Tech from Government En
 - java(Basic)
 - Python(Basic)
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 I'm always eager to learn and explore new technologies. Currently, I'm focusing on improving my skills in ReactJs.
 
