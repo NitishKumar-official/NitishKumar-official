@@ -1,6 +1,9 @@
 # Hi there! 👋 I'm Nitish Kumar
 
 I'm a passionate Frontend Developer currently pursuing B.Tech from Government Engineering College Munger.
+<p align="center">
+  <img src="your-animated-gif-url-here" alt="Hello, I'm Nitish Kumar!" width="100%">
+</p>
 
 ## 🚀 Skills and Technologies
 
