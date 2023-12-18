@@ -9,6 +9,10 @@ I'm a passionate Frontend Developer currently pursuing B.Tech from Government En
 - Git, GitHub
 - Responsive Web Design
 - UI/UX Design
+- C-language
+- C++ language
+- java(Basic)
+- Python(Basic)
 
 ## 🌱 Currently Learning
 
