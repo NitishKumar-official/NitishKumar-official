@@ -1,12 +1,14 @@
 # Hi there!  I'm Nitish Kumar
 
-I'm a passionate Frontend Developer currently pursuing B.Tech from Government Engineering College Munger.
+I'm a MERN Stack Developer and Machine Learning Engineer currently pursuing B.Tech from Government Engineering College Munger.
 <p align="center">
   <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Hello, I'm Nitish Kumar!" width="100%">
 </p>
 
 ## Skills and Technologies
 
+- Machine Learning - Scikit-learn, Pandas, Numpy, Matplotlib, seaborn, Flask
+- DSA with Java
 - HTML, CSS, JavaScript
 - React.js
 - Git, GitHub
